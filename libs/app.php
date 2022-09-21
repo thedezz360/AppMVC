@@ -25,7 +25,7 @@ class App{
             $controller -> loadModel('login');
             //renderizamos la vista
             $controller -> render();
-            
+            $prueba='daniel';
             return false;
         }
         //si tenemos un controlador especificado
