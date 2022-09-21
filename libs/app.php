@@ -26,6 +26,7 @@ class App{
             //renderizamos la vista
             $controller -> render();
             $prueba='daniel';
+            $prueba2='daniel';
             return false;
         }
         //si tenemos un controlador especificado
