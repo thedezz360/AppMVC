@@ -29,7 +29,7 @@ class App{
             return false;
         }
         //si tenemos un controlador especificado
-        $archivoController = 'controllers/' . url[0] . '.php';
+        $archivoController = 'controllers/' . $url[0] . '.php';
 
         //confirmamos si existe el nombre del archivo
         if (file_exists($archivoController)) {

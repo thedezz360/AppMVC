@@ -106,3 +106,20 @@ Stack trace:
 #0 C:\Users\Familia\OneDrive\VSC-PHP\AppMVC\index.php(17): App->__construct()
 #1 {main}
   thrown in C:\Users\Familia\OneDrive\VSC-PHP\AppMVC\libs\app.php on line 25
+[24-Sep-2022 11:16:57 Europe/Berlin] Hello, errors!
+[24-Sep-2022 11:16:57 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Familia\OneDrive\VSC-PHP\AppMVC\libs\app.php on line 8
+[24-Sep-2022 11:16:57 Europe/Berlin] APP::construct-> no hay controlador especificado
+[24-Sep-2022 11:16:57 Europe/Berlin] Login::construct -> inicio de login
+[24-Sep-2022 11:17:33 Europe/Berlin] Hello, errors!
+[24-Sep-2022 11:17:33 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Familia\OneDrive\VSC-PHP\AppMVC\libs\app.php on line 8
+[24-Sep-2022 11:17:33 Europe/Berlin] APP::construct-> no hay controlador especificado
+[24-Sep-2022 11:17:33 Europe/Berlin] Login::construct -> inicio de login
+[24-Sep-2022 11:17:47 Europe/Berlin] Hello, errors!
+[24-Sep-2022 11:17:47 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Familia\OneDrive\VSC-PHP\AppMVC\libs\app.php on line 8
+[24-Sep-2022 11:17:47 Europe/Berlin] APP::construct-> no hay controlador especificado
+[24-Sep-2022 11:17:47 Europe/Berlin] Login::construct -> inicio de login
+[24-Sep-2022 11:20:02 Europe/Berlin] Hello, errors!
+[24-Sep-2022 11:20:02 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Familia\OneDrive\VSC-PHP\AppMVC\libs\app.php on line 8
+[24-Sep-2022 11:20:02 Europe/Berlin] APP::construct-> no hay controlador especificado
+[24-Sep-2022 11:20:02 Europe/Berlin] Login::construct -> inicio de login
+[24-Sep-2022 11:20:02 Europe/Berlin] Login::render -> carga el index de login
